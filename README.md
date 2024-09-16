@@ -26,7 +26,7 @@ Pull request to https://github.com/audinux/audinux.github.io/tree/main/pages/use
 
 ### Template: Initial configuration for music creation (Instrument: Electric guitar)
 
-https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide
+https://github.com/audinux/audinux.github.io/blob/main/pages/user_guide/introduction.md
     
 ### Audio tools
 
