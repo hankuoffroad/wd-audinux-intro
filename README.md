@@ -22,6 +22,8 @@ Git-workflow from your favorite local writing setup and text editor.
     
 ### End to end processes
 
+Create a fork
+
 Pull request to https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide
 
 ### Template: Initial configuration for music creation (Instrument: Electric guitar)
@@ -107,3 +109,5 @@ https://static.sched.com/hosted_files/osseu2024/9e/ELCE2024_Embedded-Audio-Polic
 ### Reference book
 
 Home Studio Recording - The Complete Guide, Warren Huart and Jerry Hammack
+
+https://homestudiorecording.com/
