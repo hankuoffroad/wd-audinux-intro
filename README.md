@@ -23,9 +23,9 @@ Git-workflow from your favorite local writing setup and text editor.
 ### End to end processes
 
 - Check out the [Audinux issue tracker](https://github.com/audinux/audinux.github.io/issues/created_by/hankuoffroad). This is the best place to track the work you’ve done and ask any specific questions
-- Select a ticket to work on
+- Select a ticket to work on and add a comment saying you'll be working on it
 - Create a fork
-- Write and mark up with markdown syntax: If you use the GitHub web editor, check preview button to see how the file is rendered.
+- Write and mark it up with markdown syntax: If you use the GitHub web editor, check preview button to see how the file is rendered.
 - Create Pull Request to the [Audinux repo](https://github.com/audinux/audinux.github.io/tree/main/pages/user_guide)
 
 ### Template: Initial configuration for music creation (Instrument: Electric guitar)
