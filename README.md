@@ -50,19 +50,17 @@ LADSPA is an audio effects plugin architecture for filters, reverbs and other so
 
 LV2 (LADSPA Version 2) is a set of royalty-free open standards for music production plug-ins and matching host applications. LV2 compatible software that can host LV2 plug-in bundles includes Ardour, Carla, Calf Stuio Gear, the GStreamer framework and many more. Check the [upstream repository](https://gitlab.com/lv2/lv2)
 
-Disposable Soft Synth Interface (DSSI)
+VST plug-ins: run in any VST3 compliant host/DAW
 
-vst plug-ins: run in any VST3 compliant host/DAW
+- CLAP: CLever Audio Plug-in or CLAP is an open source software architecture, application programming interface and reference implementation suite for audio effects plugins
 
-CLAP: CLever Audio Plug-in or CLAP is an open source software architecture, application programming interface and reference implementation suite for audio effects plugins
-
-CALF Studio Gear: Professional state-of-the-art audio plugins for musicians and multitrack software. Check out the [upstream documentation](http://calf-studio-gear.org/)
+- CALF Studio Gear: Professional state-of-the-art audio plugins for musicians and multitrack software. Check out the [upstream documentation](http://calf-studio-gear.org/)
 
 It is possible to compile calf plugins under Mac OS X. If you are using homebrew, you can use the Formula from the homebrew-audio tap. This allows you to use calf plugins under any LV2 capable host or via jack using calfjackhost. Be aware that the LV2 GTK dos not work reliably, so you should use the generic UI only.
 
 #### Carla plugin host
 
-cross-platform soeftware: Pre-compiled binaries are available for Linux, macOS and Windows
+Cross-platform soeftware: Pre-compiled binaries are available for Linux, macOS and Windows
 
 Carla is available in the KXStudio repositories, Fedora and ArchLinux (all with 'carla' package name).
 
